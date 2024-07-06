@@ -1,0 +1,6 @@
+@gittest1_HostAddress = http://localhost:5073
+
+GET {{gittest1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
