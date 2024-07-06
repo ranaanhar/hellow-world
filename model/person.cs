@@ -1,5 +1,6 @@
 //using namespace testgit
-public class person
+namespace gittest1;
+public class Person
 {
-	public person(){}
+	public Person(){}
 }
