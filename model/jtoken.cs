@@ -2,5 +2,5 @@
 
 public class Jtoken
 {
-
+public int a=0;
 }
